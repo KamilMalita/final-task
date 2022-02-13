@@ -1,0 +1,1 @@
+C:\Users\kamilax\Downloads\New folder (2)\eShopOnWeb-main\src\BlazorAdmin\obj\Release\net6.0\browser-wasm\PubTmp\Out\web.config
